@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="potencia" viewBox="0 0 64 64">
+    <path d="M12 45a22 22 0 1 1 40 0" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <path d="M32 14v6M17 21l4 5M47 21l-4 5M10 38h7M47 38h7" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+    <path d="M32 41l12-12" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="32" cy="41" r="4" fill="currentColor"/>
+    <path d="M22 53h20" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="tablero" viewBox="0 0 64 64">
+    <path d="M14 25h7l6-7h17l5 7h6v21h-6l-4 5H20l-4-5h-6V30z" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M20 25v-6M46 25v-6M28 32h14" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <path d="M35 37v7" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="35" cy="49" r="2.5" fill="currentColor"/>
+  </symbol>
+  <symbol id="arranque" viewBox="0 0 64 64">
+    <path d="M10 20h44v32H10z" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M18 20v-7h10v7M38 20v-7h10v7M17 31h9M21.5 26.5v9M41 27l-7 12h8l-6 11" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+  <symbol id="temperatura" viewBox="0 0 64 64">
+    <path d="M27 14a7 7 0 0 1 14 0v25a13 13 0 1 1-14 0z" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M34 20v25" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="34" cy="49" r="6" fill="currentColor"/>
+    <path d="M47 23h7M47 31h5" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="ruido" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="12" fill="none" stroke="currentColor" stroke-width="4"/>
+    <circle cx="32" cy="32" r="4" fill="currentColor"/>
+    <path d="M16 20c-7 7-7 17 0 24M48 20c7 7 7 17 0 24M9 13C-2 24-2 40 9 51M55 13c11 11 11 27 0 38" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+  </symbol>
+</svg>

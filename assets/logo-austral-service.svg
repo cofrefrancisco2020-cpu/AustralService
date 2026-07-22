@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" role="img" aria-labelledby="title desc">
+  <title id="title">Austral Service</title>
+  <desc id="desc">Logo corporativo con una llave integrada a la silueta de un automóvil y el texto Servicio Técnico Automotriz</desc>
+  <defs>
+    <mask id="car-cutout">
+      <rect width="100%" height="100%" fill="#fff"/>
+      <path d="M105 76h70c11 0 19 5 25 14l26 38H105z" fill="#000"/>
+      <path d="M105 143h98M105 165h76" stroke="#000" stroke-width="9" stroke-linecap="round"/>
+      <ellipse cx="214" cy="159" rx="20" ry="13" fill="#000"/>
+    </mask>
+  </defs>
+  <g fill="#071b4b">
+    <path d="M67 9v36c0 9-7 16-16 16S35 54 35 45V9C17 18 6 37 9 58c2 17 12 31 27 38v112c0 13 7 24 15 24s16-11 16-24V96c15-7 25-21 27-38 3-21-8-40-27-49z"/>
+    <path mask="url(#car-cutout)" d="M69 67h106c19 0 33 8 43 23l28 40c9 12 13 27 13 42v37h-18c-2 14-13 23-27 23s-25-9-27-23H69z"/>
+    <rect x="193" y="186" width="34" height="47" rx="16"/>
+  </g>
+  <g font-family="Arial Narrow,Roboto Condensed,Arial,sans-serif" font-weight="900">
+    <text x="286" y="104" fill="#071b4b" font-size="78" letter-spacing="1">AUSTRAL</text>
+    <text x="286" y="176" fill="#20a9b2" font-size="78" letter-spacing="1">SERVICE</text>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" font-weight="700">
+    <rect x="286" y="210" width="42" height="5" rx="2.5" fill="#20a9b2"/>
+    <text x="344" y="219" fill="#101820" font-size="25">Servicio Técnico Automotriz</text>
+    <rect x="718" y="210" width="28" height="5" rx="2.5" fill="#20a9b2"/>
+  </g>
+</svg>

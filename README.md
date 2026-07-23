@@ -1,4 +1,4 @@
-# Austral Service — versión 1
+# Austral Service — versión 2
 
 Sitio web estático para Austral Service, taller automotriz en Punta Arenas.
 
@@ -17,6 +17,10 @@ Todos los recursos están dentro de `assets`, sin subcarpetas:
 - `isotipo-austral-service.svg`: símbolo llave + automóvil para favicon y usos pequeños.
 - `iconos-sintomas.svg`: sistema de cinco íconos técnicos para el selector interactivo de diagnóstico.
 - `hero-diagnostico-austral-service.png`: imagen original generada con IA para la portada; no proviene de Instagram ni representa a una persona real del taller.
+- `caso-boroscopio-cx5-ai.webp`: fotografía real del boroscopio, aislada de una captura de Instagram y mejorada con IA.
+- `caso-diagnostico-bmw-ai.webp`: fotografía real de diagnóstico BMW, limpiada y mejorada con IA.
+- `caso-embrague-taller-ai.webp`: fotografía real del trabajo de embrague, limpiada y mejorada con IA.
+- `caso-mantencion-tucson-ai.webp`: fotografía real de mantención del Tucson, limpiada, mejorada y con patente anonimizada.
 
 ## Funcionalidades
 
@@ -25,6 +29,16 @@ Todos los recursos están dentro de `assets`, sin subcarpetas:
 - Enlaces directos a WhatsApp, llamada, correo, Instagram y Google Maps.
 - Mapa embebido de Errázuriz 383.
 - Animaciones de entrada respetando `prefers-reduced-motion`.
+- Sección de trabajos reales con tres casos técnicos.
+- Sección de empresa con misión, visión y valores.
+
+## Actualización incremental
+
+La carpeta de entrega `version 2` contiene únicamente los archivos que deben reemplazarse o agregarse en GitHub:
+
+- Reemplazar `index.html`, `styles.css`, `README.md` y `brief-marca.md`.
+- Agregar los cuatro archivos nuevos dentro de `assets`.
+- `script.js`, `vercel.json` y los assets anteriores no cambiaron.
 
 ## Nota de investigación
 
